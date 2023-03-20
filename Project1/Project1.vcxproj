@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FCFS IO.cpp" />
     <ClCompile Include="FCFS.cpp" />
     <ClCompile Include="RR.cpp" />
     <ClCompile Include="SJF.cpp" />

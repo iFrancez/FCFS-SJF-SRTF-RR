@@ -27,5 +27,8 @@
     <ClCompile Include="RR.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FCFS IO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
